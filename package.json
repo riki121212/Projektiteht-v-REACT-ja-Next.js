@@ -1,7 +1,5 @@
 {
   "packageManager": "pnpm@9.0.0"
-},
-{
   "private": true,
   "scripts": {
     "build": "next build",
